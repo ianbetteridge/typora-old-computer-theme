@@ -72,4 +72,4 @@ in focus mode.
 
 ## Licence
 
-Public domain, under [The Unlicense](LICENSE).
+[MIT](LICENSE).
