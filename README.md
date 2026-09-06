@@ -69,3 +69,7 @@ Copy one of the variant files, rename it `old-computer-<name>.css`, and
 change the eight colour variables. Keep `--crt-dim` legible against
 `--crt-bg`: it is the colour of everything except the current paragraph
 in focus mode.
+
+## Licence
+
+Public domain, under [The Unlicense](LICENSE).
