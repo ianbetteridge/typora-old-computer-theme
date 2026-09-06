@@ -6,6 +6,8 @@ status bar, faint scanlines and a phosphor glow. Focus mode dims every
 paragraph except the one you are writing to a darker shade of the same
 phosphor, so the surrounding text stays legible but recedes.
 
+![Old Computer Green in focus mode](screenshots/green-focus.png)
+
 ## Variants
 
 | File | Look |
@@ -17,6 +19,8 @@ phosphor, so the surrounding text stays legible but recedes.
 
 All four share `old-computer/base.css`; a variant is just a set of
 colour variables.
+
+![The four variants: green, amber, white and blue](screenshots/variants.png)
 
 ## Install
 
