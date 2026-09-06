@@ -1,0 +1,13 @@
+@import url("old-computer/base.css");
+
+/* P4 white phosphor / monochrome monitor */
+:root {
+  --crt-bg: #0a0a0a;
+  --crt-bg-alt: #161616;
+  --crt-fg: #d8d8d8;
+  --crt-bright: #ffffff;
+  --crt-dim: #7a7a7a;
+  --crt-faint: #333333;
+  --crt-glow: rgba(216, 216, 216, 0.25);
+  --crt-highlight: rgba(216, 216, 216, 0.07);
+}

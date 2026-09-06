@@ -1,0 +1,13 @@
+@import url("old-computer/base.css");
+
+/* P3 amber phosphor */
+:root {
+  --crt-bg: #100b02;
+  --crt-bg-alt: #1a1305;
+  --crt-fg: #ffb000;
+  --crt-bright: #ffd97a;
+  --crt-dim: #9a6a08;
+  --crt-faint: #4a3308;
+  --crt-glow: rgba(255, 176, 0, 0.35);
+  --crt-highlight: rgba(255, 176, 0, 0.07);
+}

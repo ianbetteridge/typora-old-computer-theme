@@ -1,0 +1,13 @@
+@import url("old-computer/base.css");
+
+/* P1 green phosphor */
+:root {
+  --crt-bg: #071007;
+  --crt-bg-alt: #0d1a0d;
+  --crt-fg: #3fe83f;
+  --crt-bright: #8fff8f;
+  --crt-dim: #1f8f1f;
+  --crt-faint: #174417;
+  --crt-glow: rgba(63, 232, 63, 0.35);
+  --crt-highlight: rgba(63, 232, 63, 0.07);
+}

@@ -1,0 +1,14 @@
+@import url("old-computer/base.css");
+
+/* WordPerfect 5.1: light grey on CGA blue */
+:root {
+  --crt-bg: #0000aa;
+  --crt-bg-alt: #000080;
+  --crt-fg: #d0d0e0;
+  --crt-bright: #ffffff;
+  --crt-dim: #8a8aff;
+  --crt-faint: #3838cc;
+  --crt-glow: rgba(255, 255, 255, 0.12);
+  --crt-highlight: rgba(255, 255, 255, 0.08);
+  --crt-scanline: 0.06;
+}
